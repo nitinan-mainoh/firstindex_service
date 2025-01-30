@@ -1,0 +1,5 @@
+# ไม่ติดตาม node_modules
+node_modules/
+
+# ไม่ติดตามไฟล์ล็อกของ npm
+npm-debug.log*
